@@ -29,3 +29,7 @@ node_modules/
 .idea/
 
 generated-schema.graphql
+src/types.ts
+
+# Environment variables
+.env
