@@ -3,7 +3,6 @@
   "private": true,
   "description": "The starter code for the Odyssey Intro to GraphQL with TypeScript course",
   "version": "0.0.0",
-  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/MihailSandulescu/spotify-playlist-api"
